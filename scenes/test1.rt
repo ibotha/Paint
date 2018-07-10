@@ -1,0 +1,21 @@
+light
+	origin 3 4 5;
+	intensity 200;
+	radius 0.5;
+	colour 00ffaa44
+sphere
+	origin 0 0 0;
+	radius 0.1;
+	colour ffffffff;
+sphere
+	origin 1 0 0;
+	radius 0.1;
+	colour ffff0000;
+sphere
+	origin 0 1 0;
+	radius 0.1;
+	colour ff00ff00;
+sphere
+	origin 0 0 1;
+	radius 0.1;
+	colour ff0000ff;
